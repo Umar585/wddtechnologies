@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Umar Syed",
+        "image": "./img/freelancers/umarsyed.webp",
+        "link": "http://umarsyedportfolio.herokuapp.com",
+        "alt": "Umar Syed Profile Image",
+        "summary": "I am a Full Stack Developer, with 2 years of web and mobile app development under my belt. I love desgine, animation and responsiveness. Check out my portfolio and see some of my work."
+    },
+    {
+        "name": "Minhaj Masood",
+        "image": "./img/freelancers/minhja.webp",
+        "link": "http://triosdevelopers.com/~Minhaj.Masood/",
+        "alt": "Minhaj Masood Profile Image",
+        "summary": "A front-end developer by profession and a back-end developer in the making: I have a passion for designing & developing websites that wow my users!"
+    },
+    {
+        "name": "Nem Ekpunobi",
+        "image": "./img/freelancers/nem.webp",
+        "link": "http://thatxrguy.com/",
+        "alt": "Nem Ekpunobi Profile Image",
+        "summary": "Obsessed with spatial computing and bubble tea, Nem is a full stack developer - particularly adept with .Net Core. When he`s not building complex sites and applications for his clients, Nem spends his time dancing up a storm."
+    }
+]
